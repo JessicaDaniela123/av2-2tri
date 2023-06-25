@@ -51,7 +51,10 @@ body{
 
 .estudante-imagem{
     width: 120px;
+}
 
+.estudantes-icone{
+    width: 24px;
 }
 
 .estudante-div{
@@ -79,3 +82,5 @@ body{
     height: 60px;
     padding: 12px 0;
 }
+
+
