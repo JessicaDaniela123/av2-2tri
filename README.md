@@ -8,6 +8,6 @@ Links de algumas das imagens e icones:
 
 <a href="https://www.flaticon.com/icon-packs/school" title="school icons">School icons created by Freepik - Flaticon</a>
 
-<a href="https://www.flaticon.com/packs/education" title="education icons">Education icons created by Freepik - Flaticon</a>
+<a href="https://www.flaticon.com/icon-packs/education" title="education icons">Education icons created by Freepik - Flaticon</a>
 
 <a href="https://storyset.com/education">Imagem retirada do site Storyset</a>
