@@ -2,7 +2,7 @@
 
 Fiz esse site para fins escolares e o tema escolhido foi sobre uma história de fanatsia, denomimada A Escola do Bem e do Mal.
 
-Prototipo criado <https://www.figma.com/file/n56c0WiIZx259CdqWIZdqa/Untitled-(Copy)?type=design&node-id=121-2&mode=design&t=2yNRF7kaFGNZR1JE-0>Figma</a>
+Link do prototipo criado no Figma: <https://www.figma.com/file/n56c0WiIZx259CdqWIZdqa/Untitled-(Copy)?type=design&node-id=121-2&mode=design&t=2yNRF7kaFGNZR1JE-0>
 
 Links de algumas das imagens e icones:
 
