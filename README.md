@@ -6,7 +6,7 @@ Prototipo criado <a href="https://www.figma.com/file/n56c0WilZx259CdqWLZdqa/Unti
 
 Links de algumas das imagens e icones:
 
-<a href="https://www.flaticon.com/packs/school" title="school icons">School icons created by Freepik - Flaticon</a>
+<a href="https://www.flaticon.com/iconpacks/school" title="school icons">School icons created by Freepik - Flaticon</a>
 
 <a href="https://www.flaticon.com/packs/education" title="education icons">Education icons created by Freepik - Flaticon</a>
 
